@@ -1,2 +1,1 @@
-# phoenix
-The test project
+Test features for development branch
